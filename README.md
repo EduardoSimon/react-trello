@@ -1,9 +1,10 @@
     
 
 <div align="center">
-	<a href="trellact.vercel.app">
+	<a href="https://trellact.vercel.app/">
 		<img src="header.svg" width="800" height="400" alt="Click to access the demo">
 	</a> 
+    <br/>
     <a href="http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge">
     <img src="http://therealsujitk-vercel-badge.vercel.app/?app=therealsujitk-vercel-badge"
         alt="vercel deploy badge"></a>
